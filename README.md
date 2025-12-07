@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Engineering+Student+%7C+Developer;Backend+%2B+Blockchain+%2B+AI;Building+Secure+%26;Decentralized+Systems;Exploring+Web3+%26+Cloud+Architecture;Breaking+Things+to+Learn+Them+🔥)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engineering+Student+%7C+Developer;Backend+%2B+Blockchain+%2B+AI;Building+Secure+%26;Decentralized+Systems;Exploring+Web3+%26+Cloud+Architecture;Breaking+Things+to+Learn+Them+🔥)
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -323,6 +323,7 @@ mindmap
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Shrey__Kumar%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shrey_Kumar@outlook.com)
+[![ENS](https://img.shields.io/badge/ENS-shrey.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/shrey.eth)
 [![GitHub](https://img.shields.io/badge/GitHub-Shrey--Arc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey-Arc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
