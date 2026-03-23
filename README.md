@@ -98,7 +98,7 @@ IoT-based parking management with real-time spot detection and smart navigation.
 [![Email](https://img.shields.io/badge/Email-Shrey__Kumar%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shrey_Kumar@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shrey--Arc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrey-Arc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![ENS](https://img.shields.io/badge/ENS-shrey.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/shrey.eth)
+<[![ENS](https://img.shields.io/badge/ENS-shrey.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.ens.domains/shrey.eth)>
 
 </div>
 
